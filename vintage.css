@@ -1,0 +1,68 @@
+.jumbotron {
+	text-align: center;
+	font-family: 'lobster', monospace;
+	background: url(https://source.unsplash.com/ycVFts5Ma4s);
+	color: white;
+	text-shadow: -5px 0px 8px grey,
+				 -10px 0px 23px rgba(0,0,0,0.4),
+				 -15px 3px 30px rgba(0,0,0,0.8);
+}
+
+.navbar-default {
+	background: none;
+	font-family: 'Lobster Two', monospace;
+	font-weight: 700;
+	text-shadow: -5px 0px 8px grey,
+				 -10px 0px 23px rgba(0,0,0,0.4),
+				 -15px 3px 30px rgba(0,0,0,0.8);
+}
+
+.navbar-default .navbar-brand {
+	color: #FFFFFF;
+	font-family: 'Lobster Two', monospace;
+	font-weight: 700;
+	font-size: 18px;
+	text-shadow: -5px 0px 8px grey,
+				 -10px 0px 23px rgba(0,0,0,0.4),
+				 -15px 3px 30px rgba(0,0,0,0.8);
+}
+
+.navbar-default .navbar-nav>li>a {
+	color: #FFFFFF;
+	font-weight: 700;
+	font-size: 18px;
+}
+
+.intro {
+	font-family: 'Lobster Two', cursive;
+	text-align: center;
+	font-size: 20px;
+	border-style: double;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+.intro h3 {
+	text-decoration: underline;
+}
+
+.first-image {
+	background: url(https://source.unsplash.com/uK5jmdHO0G4);
+	background-size: cover;
+	background-position: center;
+	height: 50%;
+}
+
+.second-image {
+	background: url(https://source.unsplash.com/P6JAcw1kRGc);
+	background-size: cover;
+	background-position: center;
+	height: 50%;
+}
+
+.third-image {
+	background: url(https://source.unsplash.com/EQRnKvV5t6U);
+	background-size: cover;
+	background-position: center;
+	height: 50%;
+}
